@@ -1,14 +1,14 @@
 [
   { 
     "id": 1, 
-    "src": "/photo1.jpg", 
-    "title": "黄山日出", 
-    "location": "安徽·黄山" 
+    "src": "https://images.unsplash.com/photo-1506744038136-46273834b3fb", 
+    "title": "远程抓取的风景", 
+    "location": "Internet" 
   },
   { 
     "id": 2, 
-    "src": "https://cdn.jsdelivr.net/gh/jbh0706-eng/img@main/photo1.jpg", 
-    "title": "川西高原", 
-    "location": "四川·甘孜" 
+    "src": "https://firebasestorage.googleapis.com/v0/b/xixiai.appspot.com/o/my-new-photo.jpg?alt=media", 
+    "title": "Firebase存储的照片", 
+    "location": "Cloud Storage" 
   }
 ]
