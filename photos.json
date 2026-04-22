@@ -1,0 +1,14 @@
+[
+  { 
+    "id": 1, 
+    "src": "/photo1.jpg", 
+    "title": "黄山日出", 
+    "location": "安徽·黄山" 
+  },
+  { 
+    "id": 2, 
+    "src": "https://cdn.jsdelivr.net/gh/jbh0706-eng/img@main/photo1.jpg", 
+    "title": "川西高原", 
+    "location": "四川·甘孜" 
+  }
+]
